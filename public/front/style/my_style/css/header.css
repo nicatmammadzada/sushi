@@ -1,0 +1,16 @@
+
+a:hover{
+    color: white;
+}
+a{
+    color: white;
+}
+input:focus{
+    outline: none;
+}
+button:focus{
+    outline: none;
+}
+.dropdown:focus{
+    outline: none; 
+}

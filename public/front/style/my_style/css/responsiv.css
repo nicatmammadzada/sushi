@@ -1,0 +1,378 @@
+@media only screen and (max-width: 3000px) and (min-width: 1600px){
+    .container-fluid{
+        width: 80%;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1083px) and (min-width: 270px){
+   .mobile-menu{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+   }
+   .city-baku {
+      font-size: 10px;
+   }
+   .menu-mobile-hover{
+    max-width: 330px;
+    background: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 50px;
+    left: -15px;
+    min-height: 100vh;
+    overflow-y: auto;
+    z-index: 1;
+   }
+   .menu-mobile-hover .nav{
+    flex-direction: column;
+   }
+   .search-form{
+       display: block!important;
+   }
+   .yukle{
+       display: none;
+   }
+   .humburger-menu{
+       display: block;
+  }
+  .mobile-text-n{
+      display: none;
+  }
+  .mob-phone {
+     display: block;
+  }
+  .header-sushi {
+    height: 40px;
+  }
+  #sea{
+    display: none;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    border: 1px solid rgb(244, 129, 031);
+
+    
+   }
+   .global-search {
+    width: 100%;
+    padding: 4px 25px 4px 17px;
+    border: 0;
+    border-radius: 6px; 
+    height: 33px;
+   }
+  .right-place a{
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+   }
+   .dropdown {
+    margin: 0!important;
+   }
+   .nav-section{
+    display: none;
+   }
+   .shoping-product-num {
+    right: 17px;
+   }
+   .most-roll{
+    font-size: 30px;
+   }
+   .modal-body-product{
+    width: 100%;  
+    padding: 10px; 
+   }
+   .modal-body-img-p{
+    width: 100%; 
+   }
+  .asas{
+    display: block;
+  }
+}
+@media only screen and (max-width: 425px) and (min-width: 270px){
+   
+   .most-roll{
+      font-size: 20px;
+   }
+   .link-foot {
+    padding: 0px 10px;
+   }
+   
+   .indigo{
+      padding: 20px 0;
+   }
+   .modal-sebet-img-div {
+      width: 100%;
+      height: 241px;
+   }
+   .odeme-first {
+    padding: 20px 10px;
+}
+   .mehsulun-sayi-modal {
+      margin-top: 0px; 
+   }
+   .app-store {
+      width: 50px;
+   }
+   .wraps-sandiv {
+    font-size: 22px;
+    line-height: 41px;
+  }
+  .vakansiya{
+      font-size: 14px;
+  }
+  .thumbnail .img-event {
+    width: 100%;
+    
+ }
+ .card-mobile-name{
+    margin-left: 19px!important;
+    font-size: 22px;
+}
+
+  
+}
+@media only screen and (max-width: 1170px) and (min-width:426px){
+  .link-foot {
+    padding: 10px 0px;
+    font-size: 13px;
+    line-height: 32px;
+  }
+}
+@media only screen and (max-width: 830px) and (min-width:769px){
+    .place-logo {
+        width: 180px;
+    }
+    .do-call {
+        width: 165px;
+    }
+  }
+
+@media only screen and (max-width: 768px) and (min-width:200px){
+    .item.list-group-item .thumbnail {
+        margin-bottom: 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .item.list-group-item .img-event {
+        float: left;
+        width: 100%;
+    }
+    .mobl-padding{
+        padding-right: 10px!important;
+        padding-left: 10px!important;
+    }
+    .new-link{
+        display: none;
+    }
+    .pruduct-pirce-button {
+        padding-bottom: 6px!important;
+    }
+    .price-cost p{
+        line-height: 36px;
+    }
+    .nav-link:hover, .bn:hover {
+        text-decoration: none!important;
+    }    
+    .do-call {
+        width: 166px;
+    }
+    .cps{
+        display: block;
+    }
+    .small-pors , .sevdiyniz-terkb{
+        display: none;
+    }
+    .card-mobile-name{
+        margin-left: 30px;
+    }
+
+    .place-open-close-time{
+        display: none;
+    } 
+    .cart_product_delete{
+        height: 60px;
+    }
+    .place-logo {
+        width: 197px;
+        height: 100px;
+    }
+    .footer-mobob{
+        display: block;
+    }
+    .mySlides{
+        position: relative;
+    }
+    .mySlides:before, .mySlides:after
+    {
+      z-index: -1;
+      position: absolute;
+      content: "";
+      bottom: 15px;
+      left: 0px;
+      width: 50%;
+      top: 80%;
+      background: #777;
+      -webkit-box-shadow: 0 15px 10px #777;
+      -moz-box-shadow: 0 15px 10px #777;
+      box-shadow: 0 15px 10px #777;
+      -webkit-transform: rotate(-3deg);
+      -moz-transform: rotate(-3deg);
+      -o-transform: rotate(-3deg);
+      -ms-transform: rotate(-3deg);
+      transform: rotate(-5deg);
+    }
+    .mySlides:after
+    {
+      -webkit-transform: rotate(3deg);
+      -moz-transform: rotate(3deg);
+      -o-transform: rotate(3deg);
+      -ms-transform: rotate(3deg);
+      transform: rotate(5deg);
+      right: 0px;
+      left: auto;
+    }
+    .pull-right {
+        display: none;
+    }
+    .sevdiyniz-terkb {
+        font-size: 16px;
+    }  
+    /* .product-sebet{
+        width: 120px;
+        height: 25px;
+    }  */
+    .card-body {
+        padding: 0.25rem!important;
+    } 
+    .mobile-block{
+        display: block;
+    }
+    .mobile-nome{
+        display: none;
+    }
+    .slideshow-container {
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+    }
+    .place-phone-user{
+        display: none;
+    }
+    .time-three-section-col {
+        justify-content: center;
+    } 
+    .dropdown{
+       display: none;
+    }
+    .mob-language{
+        display: flex!important;
+    }
+    .price-c-button button{
+        font-size: 16px;
+    }
+    .price-cost p{
+        font-size: 16px;
+    }
+    .price-cost .manat-img {
+        width: 16px;
+        height: 19px;
+        object-fit: contain;
+    }
+    .thumbnail .img-event {
+       width: 100%;
+       height: auto;
+    }
+    .card{
+        min-height: 230px!important;
+    }
+    .list-group-item-heading{
+        font-size: 20px;
+    }
+    .list-group-item-text{
+        font-size: 15px;
+    }
+    .item.list-group-item .caption {
+        display: flex;
+        flex-direction: row-reverse;
+        width: 100%;
+        margin: 0;
+    }
+    .item.list-group-item {
+        margin-bottom: 19px;
+    }
+    .thumbnail {
+        margin-bottom: 5px;
+    }
+    .item.list-group-item .caption .pruduct-pirce-button .price-cost p{
+        font-size: 13px;
+    }
+    .title-sushi {
+        font-size: 20px;
+    }
+    .bakida-sushi p{
+        font-size: 14px;
+    }
+    .bakida-sushi {
+        padding-bottom: 10px;
+    }
+    hr{
+        display: none;
+    }
+    .sebet-img{
+        margin: 0;
+        width: 270px;
+        height: 165px;
+    }
+    .cart_product_body{
+        flex-direction: column;
+        padding: 15px 15px 15px 15px;
+    }
+    .count_block , .cart_product_sum{
+        margin-top: 10px;
+    }
+    .odeme-usullari-all{
+        flex-direction: column;
+        align-items:start;
+    }
+    .cemi-product-price{
+        display: none;
+    }
+    .mobile-sebet-kalory{
+        display: block;
+        text-align: right;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .kard-odeme{
+        text-align: left!important;
+    }
+    .mobile-price-sebet{
+        display: block;
+        color: rgb(244, 129, 031);
+        font-weight: 500;
+        text-align: right;
+        font-size: 15px;
+    }
+    .href-link:hover{
+        text-decoration: none!important;
+    }
+    
+  }
+   @media (min-width: 1200px){
+      .modal-xl{
+        max-width: 1014px;
+      }
+   }
+
+   @media only screen and (max-width: 359px) and (min-width: 320px){
+    .card-mobile-name {
+        font-size: 20px;        
+    }
+    .price-cost p {
+        font-size: 13px!important;
+        line-height: 28px;
+    }
+    
+}
