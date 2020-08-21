@@ -357,7 +357,6 @@
                     @guest
                             <div class="text-center pb-3"   data-toggle="modal" data-target="#giris">
                                 <button disabled class="btn promo-butn check-true-green"><i class="fas fa-check"></i></button>
-                                <button disabled class="btn promo-butn check-true-green"><i class="fas fa-check"></i></button>
                             </div>
 
                     @endguest
