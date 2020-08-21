@@ -362,7 +362,7 @@
                     @endguest
 
                     <div class="text-center mb-3">
-                        <small>Sifariş verәrәk , çatdırılma şәrtlәrini vә fәrdi mәlumatların razılaşmasını qәbul
+                        <small>Sifaaaaariş verәrәk , çatdırılma şәrtlәrini vә fәrdi mәlumatların razılaşmasını qәbul
                             edirsiniz</small>
                     </div>
                 </div>
